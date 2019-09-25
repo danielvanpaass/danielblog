@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Week 1: The arrival to the US of the A Paragraph	</title>
-	<atom:link href="http://www.danielvanpaass.github.io/danielblog/2019/08/18/example-post/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.danielvanpaass.github.io/danielblog/2019/08/18/example-post/</link>
+	<atom:link href="http://www.danielhonderd.github.io/danielblog/2019/08/18/example-post/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.danielhonderd.github.io/danielblog/2019/08/18/example-post/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 24 Sep 2019 23:59:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 			<item>
 				<title>
 				By: Alex				</title>
-				<link>http://www.danielvanpaass.github.io/danielblog/2019/08/18/example-post/#comment-2</link>
+				<link>http://www.danielhonderd.github.io/danielblog/2019/08/18/example-post/#comment-2</link>
 		<dc:creator><![CDATA[Alex]]></dc:creator>
 		<pubDate>Mon, 19 Aug 2019 09:17:29 +0000</pubDate>
 		<guid isPermaLink="false">https://justgatortravel.wordpress.com/?p=3#comment-2</guid>
