@@ -373,7 +373,34 @@ element.style {
 
 		</div><!-- #main -->
 		<footer id="colophon" class="site-footer" role="contentinfo">
+				<div id="secondary" class="sidebar-container" role="complementary">
+		<div class="widget-area">
+			<aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<label class="screen-reader-text" for="archives-dropdown-2">Archives</label>
+		<select id="archives-dropdown-2" name="archive-dropdown">
 			
+			<option value="">Select Month</option>
+				<option value='https://www.danielblog.eu/2019/09/'> September 2019 &nbsp;(5)</option>
+	<option value='https://www.danielblog.eu/2019/08/'> August 2019 &nbsp;(2)</option>
+
+		</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-2" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+
+		</aside>		</div><!-- .widget-area -->
+	</div><!-- #secondary -->
+
 			<div class="site-info">
 												<a href="https://wordpress.org/" class="imprint">
 					Proudly powered by WordPress				</a>
@@ -402,6 +429,9 @@ element.style {
 
 <!--End mc_embed_signup--><link rel='stylesheet' id='metaslider-flex-slider-css'  href='https://www.danielblog.eu/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css?ver=3.14.0' type='text/css' media='all' property='stylesheet' />
 <link rel='stylesheet' id='metaslider-public-css'  href='https://www.danielblog.eu/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.14.0' type='text/css' media='all' property='stylesheet' />
+<script type='text/javascript' src='https://www.danielblog.eu/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://www.danielblog.eu/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://www.danielblog.eu/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
 <script type='text/javascript' src='https://www.danielblog.eu/wp-content/themes/twentythirteen/js/functions.js?ver=20171218'></script>
 <script type='text/javascript' src='https://www.danielblog.eu/wp-includes/js/wp-embed.min.js?ver=5.2.3'></script>
 <script type='text/javascript' src='https://www.danielblog.eu/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.14.0'></script>
