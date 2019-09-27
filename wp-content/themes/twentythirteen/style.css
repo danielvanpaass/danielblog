@@ -455,7 +455,7 @@ ins {
 }
 
 hr {
-	background: url(https://www.danielblog.eu/wp-content/themes/twentythirteen/images/dotted-line.png) repeat center top;
+	background: url(/danielblog/wp-content/themes/twentythirteen/images/dotted-line.png) repeat center top;
 	background-size: 4px 4px;
 	border: 0;
 	height: 1px;
@@ -963,7 +963,7 @@ ul.nav-menu .focus > ul,
 
 .site-header .search-field {
 	background-color: transparent;
-	background-image: url(https://www.danielblog.eu/wp-content/themes/twentythirteen/images/search-icon.png);
+	background-image: url(/danielblog/wp-content/themes/twentythirteen/images/search-icon.png);
 	background-position: 5px center;
 	background-repeat: no-repeat;
 	background-size: 24px 24px;
@@ -1469,7 +1469,7 @@ footer.entry-meta {
 }
 
 .format-audio .audio-content {
-	background: url(https://www.danielblog.eu/wp-content/themes/twentythirteen/images/dotted-line.png) repeat-y left top;
+	background: url(/danielblog/wp-content/themes/twentythirteen/images/dotted-line.png) repeat-y left top;
 	background-size: 4px 4px;
 	float: right;
 	padding-left: 35px;
@@ -1682,7 +1682,7 @@ footer.entry-meta {
 
 .format-status .entry-content:before,
 .format-status .entry-meta:before {
-	background: url(https://www.danielblog.eu/wp-content/themes/twentythirteen/images/dotted-line.png) repeat-y left bottom;
+	background: url(/danielblog/wp-content/themes/twentythirteen/images/dotted-line.png) repeat-y left bottom;
 	background-size: 4px 4px;
 	content: "";
 	display: block;
@@ -2204,7 +2204,7 @@ footer.entry-meta {
 
 .comment-list > li:after,
 .comment-list .children > li:before {
-	background: url(https://www.danielblog.eu/wp-content/themes/twentythirteen/images/dotted-line.png) repeat left top;
+	background: url(/danielblog/wp-content/themes/twentythirteen/images/dotted-line.png) repeat left top;
 	background-size: 4px 4px;
 	content: "";
 	display: block;
@@ -3196,7 +3196,7 @@ footer.entry-meta {
 	(min-resolution: 120dpi) {
 
 	.site-header .search-field {
-		background-image: url(https://www.danielblog.eu/wp-content/themes/twentythirteen/images/search-icon-2x.png);
+		background-image: url(/danielblog/wp-content/themes/twentythirteen/images/search-icon-2x.png);
 	}
 
 	.format-audio .audio-content,
@@ -3204,7 +3204,7 @@ footer.entry-meta {
 	.format-status .entry-meta:before,
 	.comment-list > li:after,
 	.comment-list .children > li:before {
-		background-image: url(https://www.danielblog.eu/wp-content/themes/twentythirteen/images/dotted-line-2x.png);
+		background-image: url(/danielblog/wp-content/themes/twentythirteen/images/dotted-line-2x.png);
 	}
 }
 
