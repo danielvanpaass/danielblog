@@ -561,7 +561,7 @@ body:not(.sidebar) .wp-block-table.alignfull {
 }
 
 .wp-block-latest-comments .wp-block-latest-comments__comment {
-	background: url(//www.danielblog.eu/wp-content/themes/twentythirteen/images/dotted-line.png) repeat-x left top;
+	background: url(https://www.danielblog.eu/wp-content/themes/twentythirteen/images/dotted-line.png) repeat-x left top;
 	margin-bottom: 0;
 	padding: 24px 0;
 }
