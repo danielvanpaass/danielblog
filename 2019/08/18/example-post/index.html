@@ -50,6 +50,7 @@ img.emoji {
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='twentythirteen-ie-css'  href='/wp-content/themes/twentythirteen/css/ie.css?ver=20150214' type='text/css' media='all' />
 <![endif]-->
+<link rel='stylesheet' id='slb_core-css'  href='/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.7.1' type='text/css' media='all' />
 <script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
 <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <link rel='https://api.w.org/' href='/wp-json/' />
@@ -143,6 +144,18 @@ element.style {
 }
 .site-header{
 	background-color: #f59b6c;
+}
+/*.paging-navigation
+.meta-nav {
+    background-color: #f59b6c
+}
+.paging-navigation
+.meta-nav {
+    background-color: #f59b6c
+}*/
+.paging-navigation
+.meta-nav a:hover{
+    background-color: #0000
 }		</style>
 		</head>
 
@@ -268,7 +281,7 @@ element.style {
 		<select id="archives-dropdown-2" name="archive-dropdown">
 			
 			<option value="">Select Month</option>
-				<option value='/2019/09/'> September 2019 &nbsp;(5)</option>
+				<option value='/2019/09/'> September 2019 &nbsp;(6)</option>
 	<option value='/2019/08/'> August 2019 &nbsp;(2)</option>
 
 		</select>
@@ -347,5 +360,6 @@ var metaslider_191 = function($) {$('#metaslider_191').addClass('flexslider');
         };
         timer_metaslider_191();
 </script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
 </body>
 </html>

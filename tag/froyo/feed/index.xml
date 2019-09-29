@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>froyo &#8211; Daniel&#039;s Adventures</title>
+	<atom:link href="/tag/froyo/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>A semester abroad in the University of Florida</description>
+	<lastBuildDate>Sun, 29 Sep 2019 20:22:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/09/cropped-cropped-img_7299-2560-32x32.jpg</url>
+	<title>froyo &#8211; Daniel&#039;s Adventures</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Week 7: Blog upgrade!</title>
+		<link>/2019/09/27/week-7-blog-upgrade/</link>
+				<pubDate>Fri, 27 Sep 2019 18:08:51 +0000</pubDate>
+		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
+				<category><![CDATA[Weekly blogpost]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[exchange student]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[froyo]]></category>
+		<category><![CDATA[game day]]></category>
+		<category><![CDATA[new blog]]></category>
+		<category><![CDATA[semester abroad]]></category>
+		<category><![CDATA[UF]]></category>
+		<category><![CDATA[University of Florida]]></category>
+		<category><![CDATA[USA]]></category>
+
+		<guid isPermaLink="false">/?p=252</guid>
+				<description><![CDATA[Saturday, gameday, we have a homegame against Tennessee and the outrageous amount of commuters already started moving two days ago. Since the game starts at noon, tailgating started for some at 7 in the morning. Something that I cannot do so they can start without me. The game was not all too interesting to watch &#8230; <a href="/2019/09/27/week-7-blog-upgrade/" class="more-link">Continue reading <span class="screen-reader-text">Week 7: Blog upgrade!</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+									</item>
+	</channel>
+</rss>
