@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>A semester abroad in the University of Florida</description>
-	<lastBuildDate>Sun, 29 Sep 2019 20:28:19 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Oct 2019 23:16:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Week 8:</title>
+		<link>/2019/10/05/week-8/</link>
+				<pubDate>Sat, 05 Oct 2019 22:45:23 +0000</pubDate>
+		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
+				<category><![CDATA[Weekly blogpost]]></category>
+		<category><![CDATA[Dutch]]></category>
+		<category><![CDATA[exchange student]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[froyo]]></category>
+		<category><![CDATA[game day]]></category>
+		<category><![CDATA[new blog]]></category>
+		<category><![CDATA[semester abroad]]></category>
+		<category><![CDATA[UF]]></category>
+		<category><![CDATA[University of Florida]]></category>
+		<category><![CDATA[USA]]></category>
+
+		<guid isPermaLink="false">/?p=284</guid>
+				<description><![CDATA[This game was one I knew was going to be one of the most boring ones. The game against Towson had a 97% chance of winning on the ESPN site. It was fun nonetheless, and I met some amazing people before the game started. And they had an amazing half-time show with fire!! I was &#8230; <a href="/2019/10/05/week-8/" class="more-link">Continue reading <span class="screen-reader-text">Week 8:</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+									</item>
+		<item>
 		<title>Week 7: Blog upgrade!</title>
 		<link>/2019/09/27/week-7-blog-upgrade/</link>
 				<pubDate>Fri, 27 Sep 2019 18:08:51 +0000</pubDate>
