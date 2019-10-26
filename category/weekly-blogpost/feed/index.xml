@@ -12,7 +12,7 @@
 	<atom:link href="/category/weekly-blogpost/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>A semester abroad in the University of Florida</description>
-	<lastBuildDate>Mon, 21 Oct 2019 03:50:43 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Oct 2019 18:49:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,16 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Week 11: Bathouse</title>
+		<link>/2019/10/26/week-11-bathouse/</link>
+				<pubDate>Sat, 26 Oct 2019 18:49:44 +0000</pubDate>
+		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
+				<category><![CDATA[Weekly blogpost]]></category>
+
+		<guid isPermaLink="false">/?p=360</guid>
+				<description><![CDATA[On Saturday, I decided to try something that I should have done a long time ago on campus, see the bats from the bathouses. With Didier and Gina we gathered on time to watch them. As a real veteran, I brought a umbrella against the guano. The day after, we did the Chua Trail, a &#8230; <a href="/2019/10/26/week-11-bathouse/" class="more-link">Continue reading <span class="screen-reader-text">Week 11: Bathouse</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+									</item>
+		<item>
 		<title>Week 10: Devil&#8217;s Den</title>
 		<link>/2019/10/21/week-10-devils-den/</link>
 				<pubDate>Mon, 21 Oct 2019 03:50:16 +0000</pubDate>
@@ -191,23 +201,6 @@
 
 		<guid isPermaLink="false">http://justgator.travel.blog/?p=42</guid>
 				<description><![CDATA[Frat parties, a quick information guide about them can be found on Blue Mountain State on Netflix. I decided to attempt to get into one with my German floormember Leo. Our plan was simple, buy a six-pack of beer and use that as a bribe to get into the party. The six-pack became a 12-pack &#8230; <a href="/2019/08/25/week-2/" class="more-link">Continue reading <span class="screen-reader-text">Week 2: Frats and the Navigators</span> <span class="meta-nav">&#8594;</span></a>]]></description>
-									</item>
-		<item>
-		<title>Week 1: The arrival to the US of the A Paragraph</title>
-		<link>/2019/08/18/example-post/</link>
-				<pubDate>Sun, 18 Aug 2019 15:37:39 +0000</pubDate>
-		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
-				<category><![CDATA[Weekly blogpost]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[exchange student]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[semester abroad]]></category>
-		<category><![CDATA[UF]]></category>
-		<category><![CDATA[University of Florida]]></category>
-		<category><![CDATA[USA]]></category>
-
-		<guid isPermaLink="false">https://justgatortravel.wordpress.com/?p=3</guid>
-				<description><![CDATA[My experiences at UF as an exchange student of this week.]]></description>
 									</item>
 	</channel>
 </rss>
