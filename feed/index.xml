@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>A semester abroad in the University of Florida</description>
-	<lastBuildDate>Sun, 03 Nov 2019 20:43:19 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Nov 2019 22:46:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,16 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Week 13: Cedar Key</title>
+		<link>/2019/11/08/week-13-cedar-key/</link>
+				<pubDate>Fri, 08 Nov 2019 22:46:08 +0000</pubDate>
+		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
+				<category><![CDATA[Weekly blogpost]]></category>
+
+		<guid isPermaLink="false">/?p=397</guid>
+				<description><![CDATA[On Saturday, my friend Dani organized a trip towards Cedar Key city, which is an hour and a half away from Gainesville. Before this, we went to see the sunset at the Ecopassage Observatory Boardwalk, and took some beautiful pictures there. In Cedar Key we walked to the observation deck, which apparently was not empty &#8230; <a href="/2019/11/08/week-13-cedar-key/" class="more-link">Continue reading <span class="screen-reader-text">Week 13: Cedar Key</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+									</item>
+		<item>
 		<title>Week 12: Halloween</title>
 		<link>/2019/11/03/week-12-halloween/</link>
 				<pubDate>Sun, 03 Nov 2019 20:43:19 +0000</pubDate>
@@ -177,23 +187,6 @@
 
 		<guid isPermaLink="false">http://justgator.travel.blog/?p=100</guid>
 				<description><![CDATA[It&#8217;s Saturday, and it&#8217;s the day of the first football game at campus. It&#8217;s the Gators against UT Martin. What to do on this day? First I will need to buy an orange shirt that will combine well with the blue bandana that my mentor gave me for the game. I already have an orange &#8230; <a href="/2019/09/15/week-5-football-game-at-uf/" class="more-link">Continue reading <span class="screen-reader-text">Week 5: Football game at UF</span> <span class="meta-nav">&#8594;</span></a>]]></description>
-									</item>
-		<item>
-		<title>Week 4: Survival</title>
-		<link>/2019/09/07/week-4/</link>
-				<pubDate>Sat, 07 Sep 2019 18:27:07 +0000</pubDate>
-		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
-				<category><![CDATA[Weekly blogpost]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[exchange student]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[semester abroad]]></category>
-		<category><![CDATA[UF]]></category>
-		<category><![CDATA[University of Florida]]></category>
-		<category><![CDATA[USA]]></category>
-
-		<guid isPermaLink="false">http://justgator.travel.blog/?p=81</guid>
-				<description><![CDATA[Surviving at UF is no easy task. For groceries, I&#8217;ve tried going to Aldi by bus, which takes very long. I also tried going to the same Aldi by bike, which is perfectly doable, except for the way back&#8230; All food turns brown really quickly because of the humidity (bananas turn from green to brown &#8230; <a href="/2019/09/07/week-4/" class="more-link">Continue reading <span class="screen-reader-text">Week 4: Survival</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 									</item>
 	</channel>
 </rss>
