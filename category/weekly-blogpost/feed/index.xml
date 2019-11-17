@@ -12,13 +12,13 @@
 	<atom:link href="/category/weekly-blogpost/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>A semester abroad in the University of Florida</description>
-	<lastBuildDate>Fri, 08 Nov 2019 22:46:08 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Nov 2019 02:15:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<generator>https://wordpress.org/?v=5.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2019/09/cropped-cropped-img_7299-2560-32x32.jpg</url>
@@ -28,6 +28,17 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Week 14: New Orleans</title>
+		<link>/2019/11/17/week-14-new-orleans/</link>
+				<pubDate>Sun, 17 Nov 2019 02:15:07 +0000</pubDate>
+		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
+				<category><![CDATA[Weekly blogpost]]></category>
+
+		<guid isPermaLink="false">/?p=402</guid>
+				<description><![CDATA[It is technically Saturday, I got out of Weaver at 2AM to be picked up. With 7 people in total we traveled to New Orleans in a minivan, to stay there until Monday morning. It is an exhausting 8-9 hour drive but luckily I am not one of the drivers, 3 others are, (you need &#8230; <a href="/2019/11/17/week-14-new-orleans/" class="more-link">Continue reading <span class="screen-reader-text">Week 14: New Orleans</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+						<enclosure url="/wp-content/uploads/2019/11/Snapchat-1031083122.mp4" length="757425" type="video/mp4" />
+			</item>
+		<item>
 		<title>Week 13: Cedar Key</title>
 		<link>/2019/11/08/week-13-cedar-key/</link>
 				<pubDate>Fri, 08 Nov 2019 22:46:08 +0000</pubDate>
@@ -170,23 +181,6 @@
 
 		<guid isPermaLink="false">http://justgator.travel.blog/?p=100</guid>
 				<description><![CDATA[It&#8217;s Saturday, and it&#8217;s the day of the first football game at campus. It&#8217;s the Gators against UT Martin. What to do on this day? First I will need to buy an orange shirt that will combine well with the blue bandana that my mentor gave me for the game. I already have an orange &#8230; <a href="/2019/09/15/week-5-football-game-at-uf/" class="more-link">Continue reading <span class="screen-reader-text">Week 5: Football game at UF</span> <span class="meta-nav">&#8594;</span></a>]]></description>
-									</item>
-		<item>
-		<title>Week 4: Survival</title>
-		<link>/2019/09/07/week-4/</link>
-				<pubDate>Sat, 07 Sep 2019 18:27:07 +0000</pubDate>
-		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
-				<category><![CDATA[Weekly blogpost]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[exchange student]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[semester abroad]]></category>
-		<category><![CDATA[UF]]></category>
-		<category><![CDATA[University of Florida]]></category>
-		<category><![CDATA[USA]]></category>
-
-		<guid isPermaLink="false">http://justgator.travel.blog/?p=81</guid>
-				<description><![CDATA[Surviving at UF is no easy task. For groceries, I&#8217;ve tried going to Aldi by bus, which takes very long. I also tried going to the same Aldi by bike, which is perfectly doable, except for the way back&#8230; All food turns brown really quickly because of the humidity (bananas turn from green to brown &#8230; <a href="/2019/09/07/week-4/" class="more-link">Continue reading <span class="screen-reader-text">Week 4: Survival</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 									</item>
 	</channel>
 </rss>
