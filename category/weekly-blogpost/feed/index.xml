@@ -12,7 +12,7 @@
 	<atom:link href="/category/weekly-blogpost/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>A semester abroad in the University of Florida</description>
-	<lastBuildDate>Sun, 17 Nov 2019 02:15:07 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Nov 2019 20:40:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,16 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Week 15: Mudfest in the cold</title>
+		<link>/2019/11/24/week-15-mudfest-in-the-cold/</link>
+				<pubDate>Sun, 24 Nov 2019 20:40:19 +0000</pubDate>
+		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
+				<category><![CDATA[Weekly blogpost]]></category>
+
+		<guid isPermaLink="false">/?p=415</guid>
+				<description><![CDATA[I got to experience a yearly tradition of the Tolbert area (where Weaver Hall lies): The Mudfest. This is an event with supposedly 10.000 dollar budget and I already got the see the preparation: The destruction of a nice field of grass which has had a short year to grow back. A huge hole was &#8230; <a href="/2019/11/24/week-15-mudfest-in-the-cold/" class="more-link">Continue reading <span class="screen-reader-text">Week 15: Mudfest in the cold</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+									</item>
+		<item>
 		<title>Week 14: New Orleans</title>
 		<link>/2019/11/17/week-14-new-orleans/</link>
 				<pubDate>Sun, 17 Nov 2019 02:15:07 +0000</pubDate>
@@ -164,23 +174,6 @@
 
 		<guid isPermaLink="false">http://justgator.travel.blog/?p=117</guid>
 				<description><![CDATA[On Saturday, we went on a trip with the Navigators to St. Augustine, a very beautiful place as you will see in the pictures. Since it is/was a harbor, we also made use of the beach at the ocean (for me the first time since I&#8217;ve been in Florida). It was fun to meet other &#8230; <a href="/2019/09/22/week-6/" class="more-link">Continue reading <span class="screen-reader-text">Week 6: St. Augustine and froyo!</span> <span class="meta-nav">&#8594;</span></a>]]></description>
-									</item>
-		<item>
-		<title>Week 5: Football game at UF</title>
-		<link>/2019/09/15/week-5-football-game-at-uf/</link>
-				<pubDate>Sun, 15 Sep 2019 08:08:04 +0000</pubDate>
-		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
-				<category><![CDATA[Weekly blogpost]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[exchange student]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[semester abroad]]></category>
-		<category><![CDATA[UF]]></category>
-		<category><![CDATA[University of Florida]]></category>
-		<category><![CDATA[USA]]></category>
-
-		<guid isPermaLink="false">http://justgator.travel.blog/?p=100</guid>
-				<description><![CDATA[It&#8217;s Saturday, and it&#8217;s the day of the first football game at campus. It&#8217;s the Gators against UT Martin. What to do on this day? First I will need to buy an orange shirt that will combine well with the blue bandana that my mentor gave me for the game. I already have an orange &#8230; <a href="/2019/09/15/week-5-football-game-at-uf/" class="more-link">Continue reading <span class="screen-reader-text">Week 5: Football game at UF</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 									</item>
 	</channel>
 </rss>

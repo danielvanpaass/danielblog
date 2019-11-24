@@ -12,7 +12,7 @@
 	<atom:link href="/author/danielhonderd/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>A semester abroad in the University of Florida</description>
-	<lastBuildDate>Sun, 17 Nov 2019 02:15:07 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Nov 2019 20:40:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,16 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Week 15: Mudfest in the cold</title>
+		<link>/2019/11/24/week-15-mudfest-in-the-cold/</link>
+				<pubDate>Sun, 24 Nov 2019 20:40:19 +0000</pubDate>
+		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
+				<category><![CDATA[Weekly blogpost]]></category>
+
+		<guid isPermaLink="false">/?p=415</guid>
+				<description><![CDATA[I got to experience a yearly tradition of the Tolbert area (where Weaver Hall lies): The Mudfest. This is an event with supposedly 10.000 dollar budget and I already got the see the preparation: The destruction of a nice field of grass which has had a short year to grow back. A huge hole was &#8230; <a href="/2019/11/24/week-15-mudfest-in-the-cold/" class="more-link">Continue reading <span class="screen-reader-text">Week 15: Mudfest in the cold</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+									</item>
+		<item>
 		<title>Week 14: New Orleans</title>
 		<link>/2019/11/17/week-14-new-orleans/</link>
 				<pubDate>Sun, 17 Nov 2019 02:15:07 +0000</pubDate>
@@ -164,23 +174,6 @@
 
 		<guid isPermaLink="false">http://justgator.travel.blog/?p=108</guid>
 				<description><![CDATA[In case someone might search for student exchange stories about UF, and stumble upon this site, I&#8217;ll prove a list of tips to help you. Always go for on-campus residence, it will be less luxurious than off-campus and you will probably share a room, meaning less privacy. But off-campus (international Weaver Hall for us, try &#8230; <a href="/2019/09/22/tips-for-upcoming-exchange-students-to-florida/" class="more-link">Continue reading <span class="screen-reader-text">Tips for upcoming exchange students to Florida</span> <span class="meta-nav">&#8594;</span></a>]]></description>
-									</item>
-		<item>
-		<title>Week 6: St. Augustine and froyo!</title>
-		<link>/2019/09/22/week-6/</link>
-				<pubDate>Sun, 22 Sep 2019 16:36:32 +0000</pubDate>
-		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
-				<category><![CDATA[Weekly blogpost]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[exchange student]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[semester abroad]]></category>
-		<category><![CDATA[UF]]></category>
-		<category><![CDATA[University of Florida]]></category>
-		<category><![CDATA[USA]]></category>
-
-		<guid isPermaLink="false">http://justgator.travel.blog/?p=117</guid>
-				<description><![CDATA[On Saturday, we went on a trip with the Navigators to St. Augustine, a very beautiful place as you will see in the pictures. Since it is/was a harbor, we also made use of the beach at the ocean (for me the first time since I&#8217;ve been in Florida). It was fun to meet other &#8230; <a href="/2019/09/22/week-6/" class="more-link">Continue reading <span class="screen-reader-text">Week 6: St. Augustine and froyo!</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 									</item>
 	</channel>
 </rss>
