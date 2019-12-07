@@ -12,7 +12,7 @@
 	<atom:link href="/author/danielhonderd/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>A semester abroad in the University of Florida</description>
-	<lastBuildDate>Mon, 02 Dec 2019 16:36:10 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Dec 2019 19:27:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,16 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Week 17: Last week of UF classes</title>
+		<link>/2019/12/07/week-17-last-week-of-uf-classes/</link>
+				<pubDate>Sat, 07 Dec 2019 19:21:10 +0000</pubDate>
+		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
+				<category><![CDATA[Weekly blogpost]]></category>
+
+		<guid isPermaLink="false">/?p=438</guid>
+				<description><![CDATA[To wrap up the Miami experience: On Saturday we rented a 7-person minivan and used that to first go to an airboat tour organized by a local Miccosukee tribe. We saw a lot of gators and the tour guide was not afraid to interact with these alligators, even grabbing one below its beak! We were &#8230; <a href="/2019/12/07/week-17-last-week-of-uf-classes/" class="more-link">Continue reading <span class="screen-reader-text">Week 17: Last week of UF classes</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+									</item>
+		<item>
 		<title>Week 16: Miami</title>
 		<link>/2019/12/02/week-16-miami/</link>
 				<pubDate>Mon, 02 Dec 2019 16:36:10 +0000</pubDate>
@@ -147,26 +157,6 @@
 
 		<guid isPermaLink="false">/?p=284</guid>
 				<description><![CDATA[This game was one I knew was going to be one of the most boring ones. The game against Towson had a 97% chance of winning on the ESPN site. It was fun nonetheless, and I met some amazing people before the game started. And they had an amazing half-time show with fire!! I was &#8230; <a href="/2019/10/05/week-8/" class="more-link">Continue reading <span class="screen-reader-text">Week 8: Homecoming Parade</span> <span class="meta-nav">&#8594;</span></a>]]></description>
-									</item>
-		<item>
-		<title>Week 7: Blog upgrade!</title>
-		<link>/2019/09/27/week-7-blog-upgrade/</link>
-				<pubDate>Fri, 27 Sep 2019 18:08:51 +0000</pubDate>
-		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
-				<category><![CDATA[Weekly blogpost]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[exchange student]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[froyo]]></category>
-		<category><![CDATA[game day]]></category>
-		<category><![CDATA[new blog]]></category>
-		<category><![CDATA[semester abroad]]></category>
-		<category><![CDATA[UF]]></category>
-		<category><![CDATA[University of Florida]]></category>
-		<category><![CDATA[USA]]></category>
-
-		<guid isPermaLink="false">/?p=252</guid>
-				<description><![CDATA[Saturday, gameday, we have a homegame against Tennessee and the outrageous amount of commuters already started moving two days ago. Since the game starts at noon, tailgating started for some at 7 in the morning. Something that I cannot do so they can start without me. The game was not all too interesting to watch &#8230; <a href="/2019/09/27/week-7-blog-upgrade/" class="more-link">Continue reading <span class="screen-reader-text">Week 7: Blog upgrade!</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 									</item>
 	</channel>
 </rss>
