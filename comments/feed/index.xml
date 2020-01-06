@@ -11,11 +11,11 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>A semester abroad in the University of Florida</description>
-	<lastBuildDate>2019-12-07 19:27:49</lastBuildDate>
+	<lastBuildDate>Mon, 06 Jan 2020 22:39:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3</generator>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
 </channel>
 </rss>
