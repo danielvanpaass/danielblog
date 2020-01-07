@@ -12,7 +12,7 @@
 	<atom:link href="/author/danielhonderd/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>A semester abroad in the University of Florida</description>
-	<lastBuildDate>Mon, 06 Jan 2020 23:27:40 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Jan 2020 21:57:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,16 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Penn State with the fam (and an adopted Japanese guy)</title>
+		<link>/2020/01/07/penn-state-with-the-fam-and-an-adopted-japanese-guy/</link>
+				<pubDate>Tue, 07 Jan 2020 21:57:44 +0000</pubDate>
+		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
+				<category><![CDATA[Weekly blogpost]]></category>
+
+		<guid isPermaLink="false">/?p=509</guid>
+				<description><![CDATA[Merry Christmas! For Christmas and New Years I went to my parents house (they are temporarily staying at Penn State for my dad&#8217;s job). My sister flew in from the Netherlands so we would be the complete family together for Christmas, we also adopted Kazuki since he was not going back to Japan for the &#8230; <a href="/2020/01/07/penn-state-with-the-fam-and-an-adopted-japanese-guy/" class="more-link">Continue reading <span class="screen-reader-text">Penn State with the fam (and an adopted Japanese guy)</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+									</item>
+		<item>
 		<title>Cambridge &#038; New York &#038; Washington DC</title>
 		<link>/2020/01/06/cambridge-new-york-washington-dc/</link>
 				<pubDate>Mon, 06 Jan 2020 22:39:37 +0000</pubDate>
@@ -117,16 +127,6 @@
 
 		<guid isPermaLink="false">/?p=388</guid>
 				<description><![CDATA[On Saturday, several Japanese exchange students organized a Japanese festival in the Weaver basement. Origami, Japanese calligraphy as well as Japanese food were offered at this event. Also a chopstick contest was happening where I won a manual hand fan. The day after, a friend offered to drive me and whoever else wanted, to go &#8230; <a href="/2019/11/03/week-12-halloween/" class="more-link">Continue reading <span class="screen-reader-text">Week 12: Halloween</span> <span class="meta-nav">&#8594;</span></a>]]></description>
-									</item>
-		<item>
-		<title>Week 11: Bathouse</title>
-		<link>/2019/10/26/week-11-bathouse/</link>
-				<pubDate>Sat, 26 Oct 2019 18:49:44 +0000</pubDate>
-		<dc:creator><![CDATA[danielhonderd]]></dc:creator>
-				<category><![CDATA[Weekly blogpost]]></category>
-
-		<guid isPermaLink="false">/?p=360</guid>
-				<description><![CDATA[On Saturday, I decided to try something that I should have done a long time ago on campus, see the bats from the bathouses. With Didier and Gina we gathered on time to watch them. As a real veteran, I brought a umbrella against the guano. The day after, we did the Chua Trail, a &#8230; <a href="/2019/10/26/week-11-bathouse/" class="more-link">Continue reading <span class="screen-reader-text">Week 11: Bathouse</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 									</item>
 	</channel>
 </rss>
